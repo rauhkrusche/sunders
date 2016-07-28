@@ -124,7 +124,7 @@
         Aljoscha Rompe Laan 5<br>
         2517 AR Den Haag<br>
         &#x73;&#x75;&#x6e;&#x64;&#x65;&#x72;&#x73; &#x28;&#x61;&#x74;&#x29; &#x6b;&#x61;&#x6d;&#x62;&#x61;&#x34; &#x28;&#x64;&#x6f;&#x74;&#x29; &#x63;&#x72;&#x75;&#x78; &#x28;&#x64;&#x6f;&#x74;&#x29; &#x75;&#x62;&#x65;&#x72;&#x73;&#x70;&#x61;&#x63;&#x65; &#x28;&#x64;&#x6f;&#x74;&#x29; &#x64;&#x65;<br><br>
-        Here is our <a href='./files/sunders.asc'>PGP key</a> &mdash; use it!<br>
+        Here is our <a href='./files/sunders.asc' target='_blank'>PGP key</a> &mdash; use it!<br>
         EE12 1A7D C3FB 52BD 46AA<br>
         DD0D 547B 21CD C20D DD88<br><br>
       </div>
