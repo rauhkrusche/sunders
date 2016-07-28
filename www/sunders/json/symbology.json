@@ -1,0 +1,25 @@
+[ { "listTitle": "Icons",
+    "listEntries": [
+      { "icons": [ { "src": "fixedAll.png", "alt": "Fixed cameras" } ],
+        "description": "Fixed camera — usually observing a limited area" },
+      { "icons": [ { "src": "domeAll.png", "alt": "Dome cameras" } ],
+        "description": "Dome camera — usually observing a 360° area" },
+      { "icons": [ { "src": "guardAll.png", "alt": "Guards" } ],
+        "description": "Guard — e.g. an employee of a security service" },
+      { "icons": [ { "src": "traffic.png", "alt": "Automatic Licence Plate Recognition" } ],
+        "description": "ALPR — Automatic Licence Plate Recognition" } ] },
+  { "listTitle": "Colors",
+    "listEntries": [
+      { "icons": [ { "src": "colorRedAll.png", "alt": "Public surveillance" } ],
+        "description": "Red background — observing a public outdoor area, accessable by everyone" },
+      { "icons": [ { "src": "colorBlueAll.png", "alt": "Outdoor surveillance" } ],
+        "description": "Blue background — observing a private outdoor area, accessable only by autherized persons" },
+      { "icons": [ { "src": "colorGreenAll.png", "alt": "Indoor surveillance" } ],
+        "description": "Green background — observing an indoor area" },
+      { "icons": [
+          { "src": "todo_fixedAll.png", "alt": "Fixed cameras, fixme" },
+          { "src": "todo_domeAll.png", "alt": "Dome cameras, fixme" },
+          { "src": "todo_guardAll.png", "alt": "Guards, fixme" },
+          { "src": "todo_traffic.png", "alt": "Automatic Licence Plate Recognition, fixme" } ],
+        "description": "Yellow icon — camera or guard marked with a fixme key because it needs further attention" } ] }
+]

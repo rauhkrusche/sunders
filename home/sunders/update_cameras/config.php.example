@@ -1,0 +1,10 @@
+<?php
+
+define('REPLICATE_URL', 'https://planet.openstreetmap.org/replication/minute');
+
+define('MYSQL_HOST', 'localhost');
+define('MYSQL_DB', 'camera');
+define('MYSQL_USER', 'camera');
+define('MYSQL_PASSWD', 'xxxxxxxx');
+
+?>

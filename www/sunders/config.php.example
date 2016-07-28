@@ -1,0 +1,12 @@
+<?php
+
+define('DEFAULT_ZOOM', 12);
+define('DEFAULT_LAT', 52.07500000);
+define('DEFAULT_LON',  4.26100000);
+
+define('MYSQL_HOST', 'localhost');
+define('MYSQL_DB', 'camera');
+define('MYSQL_USER', 'camselect');
+define('MYSQL_PASSWD', null);
+
+?>
