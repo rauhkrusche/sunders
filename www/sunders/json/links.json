@@ -1,22 +1,27 @@
 [ { "listTitle": "English",
     "listEntries": [
-      { "sourceText": "2016-06-27 | sucuri BLOG", "href": "https://blog.sucuri.net/2016/06/large-cctv-botnet-leveraged-ddos-attacks.html", "linkText": "Large CCTV Botnet Leveraged in DDoS Attacks" },
-      { "sourceText": "2015-12-29 | 32C3", "href": "https://events.ccc.de/congress/2015/Fahrplan/events/7374.html", "linkText": "The architecture of a street level panopticum" },
+      { "sourceText": "1984 Actionday", "href": "https://1984actionday.wordpress.com/", "linkText": "When will you fight back?" },
       { "sourceText": "Electronic Frontier Foundation", "href": "https://www.eff.org/sls", "linkText": "Street Level Surveillance" },
       { "sourceText": "Insecam", "href": "http://www.insecam.org/", "linkText": "World biggest online cameras directory" },
-      { "sourceText": "No CCTV", "href": "http://www.no-cctv.org.uk/", "linkText": "Campaigning against camera surveillance in the UK & beyond" }
+      { "sourceText": "No CCTV", "href": "http://www.no-cctv.org.uk/", "linkText": "Campaigning against camera surveillance in the UK & beyond" },
+      { "sourceText": "2016-06-27 | sucuri BLOG", "href": "https://blog.sucuri.net/2016/06/large-cctv-botnet-leveraged-ddos-attacks.html", "linkText": "Large CCTV Botnet Leveraged in DDoS Attacks" },
+      { "sourceText": "2015-12-29 | 32C3", "href": "https://events.ccc.de/congress/2015/Fahrplan/events/7374.html", "linkText": "The architecture of a street level panopticum" }
     ] },
   { "listTitle": "German",
     "listEntries": [
+      { "sourceText": "AK Überwachung", "href": "http://www.ak-ueberwachung.org/", "linkText": "Arbeitskreis gegen Überwachung" },
+      { "sourceText": "AK Vorrat, Ortsgruppe Hannover", "href": "https://wiki.vorratsdatenspeicherung.de/Ortsgruppen/Hannover/Videoueberwachung_in_Hannover", "linkText": "Videoüberwachung in Hannover" },
+      { "sourceText": "dieDatenschützer Rhein-Main", "href": "https://ddrm.de/category/videouberwachung-2/", "linkText": "Kategoriearchiv: Videoüberwachung" },
+      { "sourceText": "Kassel-Watch-Log", "href": "https://www.ks-watch.de/", "linkText": "Videoüberwachung im öffentlichen Raum Kassel" },
+      { "sourceText": "2016-07-06 | netzpolitik.org", "href": "https://netzpolitik.org/2016/berliner-senat-intelligente-videotechnik-vor-fuenf-jahren-am-kottbusser-tor-aber-noch-nicht-am-suedkreuz/", "linkText": "Berliner Senat: 'Intelligente Videotechnik' vor fünf Jahren am Kottbusser Tor, aber noch nicht am Südkreuz" },
       { "sourceText": "2016-06-29 | heise online", "href": "http://www.heise.de/newsticker/meldung/Datenschuetzer-Viele-Strand-Webcams-im-Norden-falsch-eingestellt-3250506.html", "linkText": "Datenschützer: Viele Strand-Webcams im Norden falsch eingestellt" },
       { "sourceText": "2016-06-29 | netzpolitik.org", "href": "https://netzpolitik.org/2016/berlin-ausweitung-der-videoueberwachung-vom-tisch/", "linkText": "Berlin: Ausweitung der Videoüberwachung vom Tisch" },
       { "sourceText": "2016-06-23 | netzpolitik.org", "href": "https://netzpolitik.org/2016/polizeiliche-videoueberwachung-fuer-berlin-mit-der-idee-des-rechtsstaats-ist-das-schon-schwerlich-kompatibel/", "linkText": "Polizeiliche Videoüberwachung in Berlin? 'Mit der Idee des Rechtsstaats ist das schon schwerlich kompatibel.'" },
       { "sourceText": "2016-06-20 | netzpolitik.org", "href": "https://netzpolitik.org/2016/berliner-datenschutzbeauftragte-geplante-ausweitung-der-videoueberwachung-waere-unverhaeltnismaessig/", "linkText": "Berliner Datenschutzbeauftragte: Geplante Ausweitung der Videoüberwachung wäre unverhältnismäßig" },
       { "sourceText": "2016-06-15 | netzpolitik.org", "href": "https://netzpolitik.org/2016/bald-auch-im-restaurant-berliner-senat-will-befugnisse-zur-videoueberwachung-an-gefaehrlichen-orten-ausweiten/", "linkText": "Bald auch im Restaurant: Berliner Senat will Befugnisse zur Videoüberwachung an 'gefährlichen Orten' ausweiten" },
+      { "sourceText": "2016-06-09 | ndr.de", "href": "https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/Nur-jede-dritte-Kamera-in-Hannover-darf-bleiben,videoueberwachung172.html", "linkText": "Nur jede dritte Kamera in Hannover darf bleiben" },
       { "sourceText": "2016-05-12 | netzpolitik.org", "href": "https://netzpolitik.org/2016/lieber-nicht-rennen-oder-herumlungern-bundespolizei-erprobt-musterkennung-an-bahnhoefen/", "linkText": "An Bahnhöfen lieber nicht rennen oder herumlungern: Bundespolizei erprobt Videoüberwachung mit Mustererkennung" },
       { "sourceText": "2016-04-18 | netzpolitik.org", "href": "https://netzpolitik.org/2016/verkehrsminister-fordern-umfassende-videoueberwachung-im-oepnv/", "linkText": "Verkehrsminister fordern umfassende Videoüberwachung im ÖPNV" },
-      { "sourceText": "2016-02-12 | netzpolitik.org", "href": "https://netzpolitik.org/2016/ausweitung-statt-evaluierung-berliner-senat-und-die-videoueberwachung/", "linkText": "Ausweitung statt Evaluierung: Der Berliner Senat und die Videoüberwachung" },
-      { "sourceText": "2015-01-23 | netzpolitik.org", "href": "https://netzpolitik.org/2015/wird-muenchen-das-neue-london-ueber-9200-kameras-ueberwachen-die-landeshauptstadt/", "linkText": "Wird München das neue London? – Über 9200 Kameras überwachen die Landeshauptstadt" },
-      { "sourceText": "2015-05-28 | heise online", "href": "http://www.heise.de/newsticker/meldung/Ueberwachungskameras-auf-Schritt-und-Tritt-alles-im-Blick-2669409.html", "linkText": "Überwachungskameras auf Schritt und Tritt – alles im Blick?" },
-      { "sourceText": "2015-02-09 | heise online", "href": "http://www.heise.de/newsticker/meldung/Berlins-Datenschuetzer-besorgt-ueber-private-Ueberwachungskameras-2543758.html", "linkText": "Berlins Datenschützer besorgt über private Überwachungskameras" } ] }
+      { "sourceText": "2016-02-12 | netzpolitik.org", "href": "https://netzpolitik.org/2016/ausweitung-statt-evaluierung-berliner-senat-und-die-videoueberwachung/", "linkText": "Ausweitung statt Evaluierung: Der Berliner Senat und die Videoüberwachung" }
+    ] }
 ]
