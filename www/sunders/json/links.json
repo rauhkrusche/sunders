@@ -4,6 +4,7 @@
       { "sourceText": "Electronic Frontier Foundation", "href": "https://www.eff.org/sls", "linkText": "Street Level Surveillance" },
       { "sourceText": "Insecam", "href": "http://www.insecam.org/", "linkText": "World biggest online cameras directory" },
       { "sourceText": "No CCTV", "href": "http://www.no-cctv.org.uk/", "linkText": "Campaigning against camera surveillance in the UK & beyond" },
+      { "sourceText": "Spy Blog", "href": "https://p10.secure.hostingprod.com/@spyblog.org.uk/ssl/spyblog/cctv-surveillance-cameras/", "linkText": "Category: CCTV surveillance cameras" },
       { "sourceText": "2016-06-27 | sucuri BLOG", "href": "https://blog.sucuri.net/2016/06/large-cctv-botnet-leveraged-ddos-attacks.html", "linkText": "Large CCTV Botnet Leveraged in DDoS Attacks" },
       { "sourceText": "2015-12-29 | 32C3", "href": "https://events.ccc.de/congress/2015/Fahrplan/events/7374.html", "linkText": "The architecture of a street level panopticum" }
     ] },
