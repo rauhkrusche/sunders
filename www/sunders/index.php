@@ -50,7 +50,7 @@
     <link rel='stylesheet' href='./Leaflet.label/leaflet.label.css'>
     <link rel='stylesheet' href='./css/sunders.css'>
 
-    <input type='checkbox' id='slider-toggle'>
+    <input type='checkbox' id='slider-toggle' checked='checked'>
     <label for='slider-toggle'>
       <img src='./images/slider-toggle.png'>
     </label>
