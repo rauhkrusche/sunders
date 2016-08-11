@@ -48,5 +48,5 @@
       { "keys": [ { "key": "ref", "href": "https://wiki.openstreetmap.org/wiki/Key:ref" } ],
         "values": [ { "value": "reference number of the camera" } ] },
       { "keys": [ { "key": "image", "href": "https://wiki.openstreetmap.org/wiki/Key:image" } ],
-        "values": [ { "value": "link to an externally hosted image that depicts the surveillance object" } ] } ] }
+        "values": [ { "value": "link to an externally hosted image that depicts the tagged object" } ] } ] }
 ]
