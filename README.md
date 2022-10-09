@@ -18,7 +18,7 @@ Color | Description
 ![Indoor surveillance][img_greenall] | Green background — observing an indoor area
 ![Fixed cameras, fixme][img_todo_fixedall]<br>![Dome cameras, fixme][img_todo_domeall]<br>![Guards, fixme][img_todo_guardall]<br>![Automatic Licence Plate Recognition, fixme][img_todo_traffic] | Yellow icon — camera or guard marked with a fixme key because it needs further attention
 
-A running instance of this project can be visited at [https://kamba4.crux.uberspace.de](https://kamba4.crux.uberspace.de).
+A running instance of this project can be visited at [https://sunders.uber.space](https://sunders.uber.space).
 
 ## Installation
 
