@@ -11,9 +11,9 @@
   { "listTitle": "Colors",
     "listEntries": [
       { "icons": [ { "src": "colorRedAll.png", "alt": "Public surveillance" } ],
-        "description": "Red background — observing a public outdoor area, accessable by everyone" },
+        "description": "Red background — observing a public outdoor area, accessible by everyone" },
       { "icons": [ { "src": "colorBlueAll.png", "alt": "Outdoor surveillance" } ],
-        "description": "Blue background — observing a private outdoor area, accessable only by autherized persons" },
+        "description": "Blue background — observing a private outdoor area, accessible only by authorized persons" },
       { "icons": [ { "src": "colorGreenAll.png", "alt": "Indoor surveillance" } ],
         "description": "Green background — observing an indoor area" },
       { "icons": [
